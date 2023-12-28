@@ -1,0 +1,22 @@
+{
+  "name": "basic-helpers",
+  "version": "1.0.0",
+  "description": "Is it even or odd?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gideon-Buba/my-npm-package.git"
+  },
+  "keywords": [
+    "help"
+  ],
+  "author": "Gideon Buba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gideon-Buba/my-npm-package/issues"
+  },
+  "homepage": "https://github.com/Gideon-Buba/my-npm-package#readme"
+}
